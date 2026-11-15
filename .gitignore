@@ -1,0 +1,10 @@
+# Build output
+out/
+build/
+dist/
+
+# IDE / local tooling
+.idea/
+.vscode/
+*.iml
+.claude/
