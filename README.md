@@ -60,7 +60,7 @@ bundled via `jpackage`.
 
 ## Support
 
-If this app saved your queue, you can [buy me a coffee on Ko-fi](https://ko-fi.com/YOUR_KOFI_NAME) ♥
+If this app saved your queue, you can [buy me a coffee on Ko-fi](https://ko-fi.com/tolu_aina) ♥
 It's also linked from the app's footer and tray menu.
 
 ## Disclaimer

@@ -59,8 +59,7 @@ public class App {
     static final Color RED        = new Color(0xBE1E37);
     static final Color TEXT_MUTED = new Color(0xA09B8C);
 
-    // TODO: replace with your real Ko-fi page before publishing a release.
-    static final String SUPPORT_URL = "https://ko-fi.com/YOUR_KOFI_NAME";
+    static final String SUPPORT_URL = "https://ko-fi.com/tolu_aina";
 
     private final JFrame frame = new JFrame("League Auto Accept");
     private final JLabel statusLabel = new JLabel("STARTING...", SwingConstants.CENTER);
